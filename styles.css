@@ -7,6 +7,16 @@ div.container {
     border-radius: 12px;
 }
 
+h1 {
+    font-weight: 900;
+    background-image: url('https://64.media.tumblr.com/fa143cffbc3bfb0183302cdad6aa5238/tumblr_pq229bewd61uzwgsuo1_400.gif');
+    background-size: cover;
+    background-position: center;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
 .column {
     min-height: 300px;
     border: 1px solid #dee2e6;

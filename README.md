@@ -20,3 +20,9 @@ This Task Tracker is a simple, interactive web application that helps users mana
 * Drag-and-Drop: Move tasks between "Tasks" and "In Progress" by dragging and dropping them into the desired column.
 * Edit a Task: Click the "Edit" button next to a task to modify its description. This is available only in the "Tasks" and "In Progress" columns.
 * Complete a Task: Click the "X" button to mark a task as completed. The task will be moved to the "Completed" column and will no longer be editable or draggable.
+
+# Installation
+To run this application locally:
+* Clone the repository: https://github.com/surajroy7430/Task-Tracker.git
+* Navigate to the project directory.
+* Open index.html in your preferred web browser to start using the Task Tracker.

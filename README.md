@@ -3,6 +3,10 @@
 # Overview
 This Task Tracker is a simple, interactive web application that helps users manage tasks by organizing them into three categories: Tasks, In Progress, and Completed. Built with HTML, CSS, and JavaScript, it features a drag-and-drop interface, allowing users to move tasks between columns as they progress from start to completion.
 
+# Screenshots
+![image](https://github.com/user-attachments/assets/b0fd7003-9ba1-4faf-b61c-d94f99abe6a7)
+![image](https://github.com/user-attachments/assets/23979e69-5b90-41c1-bbd5-d94fd27440c2)
+
 # Features
 * Task Management: Add new tasks to the "Tasks" column, move them to "In Progress" as you work on them, and finally mark them as "Completed."
 * Drag-and-Drop Interface: Seamlessly drag tasks between the "Tasks" and "In Progress" columns for easy management of your workflow.
